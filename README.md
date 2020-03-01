@@ -1,4 +1,4 @@
-# Core skills program - week 6 - Machine Learning I - Fundamentals and Supervised Techniques
+# Core skills program - week 8 - Machine Learning I - Fundamentals and Supervised Techniques
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/core-skills/08-time-network-analysis.git/master)
 
