@@ -4,16 +4,16 @@
 
 ## Aims 
 
-Aim 1: Introduce fundamental concepts of supervised and what are the crucial steps in an end-to-end machine learning strategy from data. 
-Aim 2: Explore traditional supervised classification techniques and the evaluation metrics for error analysis. 
-Aim 3: Introduce open-source toolboxes and packages that can be applied to mining/energy data.
+1. Introduce fundamental concepts of supervised and what are the crucial steps in an end-to-end machine learning strategy from data. 
+2. Explore traditional supervised classification techniques and the evaluation metrics for error analysis. 
+3. Introduce open-source toolboxes and packages that can be applied to mining/energy data.
 
 ## Learning Outcomes
 
 1. Understand the key steps to develop a machine learning investigation from data. 
 2. Understand how to evaluate, validate and prevent problems such as overfitting and underfitting. 
 3. Understand which techniques are best suited for a classification problem and how to design the learning model. 
-4. Understand the advantages and disadvantages for the techniques to select the correct type of model given available data.
+4. Understand the advantages and disadvantages of the techniques to select the correct type of model given available data.
 
 ## Schedule
 
@@ -27,7 +27,7 @@ Aim 3: Introduce open-source toolboxes and packages that can be applied to minin
 | 13:00 | 14:30 | [**Model Evaluation I**]           |
 | 14:30 | 15:00 | *Afternoon Tea*                  |
 | 15:00 | 15:30 | [**Model Evaluation II**] |
-| 15:30 | 16:30 | [**Apply to your own Problemn**]  |
+| 15:30 | 16:30 | **Apply to your own Problem**  |
 | 16:30 | 16:45 | [**Closeout**]                   |
 
 [**The Data Science and ML Workflow**]: ./01_mlworkflow.md
