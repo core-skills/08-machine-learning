@@ -1,0 +1,14 @@
+name: day08
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - imbalanced-learn
+  - pandas
+  - numpy
+  - scikit-learn
+  - seaborn
+  - matplotlib
+  - jupyter
+  - notebook
+  - scipy
