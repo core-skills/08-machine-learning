@@ -1,6 +1,6 @@
 # Overview
 
-[Overview](./00_overview.md) | [ML Workflow](./01_mlworkflow.md) | [Supervised techniques](./02_supervisedtechniques.md) | [Model Evaluation I](./03_modelevaluationA.md)  | [Model Evaluation II](./04_modelevaluationB.md) | [Closeout](./05_closeout.md)
+[Overview](./00_overview.md) | [ML Workflow](./01_mlworkflow.md) | [Supervised techniques](./02_supervisedtechniques.md) | [Evaluating ML Models](./03_modelevaluationA.md)  | [Evaluating ML Models II](./04_modelevaluationB.md) | [Closeout](./05_closeout.md)
 
 ## Aims
 
@@ -20,22 +20,22 @@
 |          AWST | AEST          | Agenda                                 |
 | -------------:|:------------- | -------------------------------------- |
 | 07:30 - 07:45 | 09:30 - 09:45 | Q&A, Issues & Announcements            |
-| 07:45 - 09:15 | 09:45 - 11:15 | [**The Data Science and ML Workflow**] |
+| 07:45 - 09:15 | 09:45 - 11:15 | [**The Machine Learning Landscape**] |
 | 09:15 - 09:30 | 11:15 - 11:30 | *Morning Tea*                          |
-| 09:30 - 11:00 | 11:30 - 13:00 | [**Supervised techniques**]            |
+| 09:30 - 11:00 | 11:30 - 13:00 | [**Supervised Techniques**]            |
 | 11:00 - 11:45 | 13:00 - 13:45 | *Lunch*                                |
-| 11:45 - 13:15 | 13:45 - 15:15 | [**Model Evaluation I**]               |
+| 11:45 - 13:15 | 13:45 - 15:15 | [**Evaluating ML Models**]               |
 | 13:15 - 13:30 | 15:15 - 15:30 | *Afternoon Tea*                        |
-| 13:30 - 14:00 | 15:30 - 16:00 | [**Model Evaluation II**]              |
+| 13:30 - 14:00 | 15:30 - 16:00 | [**More About ML**]              |
 | 14:00 - 14:45 | 16:00 - 16:45 | Apply to your own Problem              |
 | 14:45 - 15:00 | 16:45 - 17:00 | [**Closeout**]                         |
 
-[**The Data Science and ML Workflow**]: ./01_mlworkflow.md
+[**The Machine Learning Landscape**]: ./01_mlworkflow.md
 
-[**Supervised techniques**]: ./02_supervisedtechniques.md
+[**Supervised Techniques**]: ./02_supervisedtechniques.md
 
-[**Model Evaluation I**]: ./03_modelevaluationA.md
+[**Evaluating ML Models**]: ./03_modelevaluationA.md
 
-[**Model Evaluation II**]: ./04_modelevaluationB.md
+[**More About ML**]: ./04_modelevaluationB.md
 
 [**Closeout**]: ./05_closeout.md
