@@ -26,7 +26,8 @@
 | 11:00 - 11:45 | 13:00 - 13:45 | *Lunch*                                |
 | 11:45 - 13:15 | 13:45 - 15:15 | [**Model Evaluation I**]               |
 | 13:15 - 13:30 | 15:15 - 15:30 | *Afternoon Tea*                        |
-| 13:30 - 14:45 | 15:30 - 16:45 | [**Model Evaluation II**]              |
+| 13:30 - 14:00 | 15:30 - 16:00 | [**Model Evaluation II**]              |
+| 14:00 - 14:45 | 16:00 - 16:45 | Apply to your own Problem              |
 | 14:45 - 15:00 | 16:45 - 17:00 | [**Closeout**]                         |
 
 [**The Data Science and ML Workflow**]: ./01_mlworkflow.md
