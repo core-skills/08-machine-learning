@@ -1,7 +1,8 @@
-name: day08
-channels:
-  - conda-forge
-  - defaults
+name: core08
+# channels:
+# - conda-forge
+#  - defaults
+
 dependencies:
   - imbalanced-learn
   - pandas
@@ -12,3 +13,4 @@ dependencies:
   - jupyter
   - notebook
   - scipy
+  - ipykernel
